@@ -17,3 +17,5 @@ notify-send "Goodbye, we will Get you again soon. . ."
 exit
 
 exit
+
+#Prank by Me! Thx xssdestroyer93!
